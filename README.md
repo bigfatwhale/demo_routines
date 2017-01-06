@@ -1,4 +1,4 @@
 # Putting up my collection of demo-routines from way back in 1997. 
 It features a bunch of C with inline assembler routines performing low-level access to the graphics card to create realtime graphics renderings
 
-![alt text](DSC00106.JPG "Image Warping" =320x240)
+![alt text](DSC00106.JPG "Image Warping" height="320" width="240")
